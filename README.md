@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack MEAN(MSSQL, Express, Angular, Node) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: An aspiring software developer working on projects to enhance skills and explore new technologies.
 
