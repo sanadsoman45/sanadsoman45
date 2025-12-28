@@ -60,18 +60,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
-
-<div align="center">
- [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadsoman45&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 ### 💼 Technical Expertise :
 
 - **Backend Development:** Node.js, Express.js, Java Spring Boot, RESTful APIs
