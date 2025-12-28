@@ -63,7 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanadsoman45&theme=dark&hide_border=true&background=000000" alt="GitHub Streak"/>
+  [![Sanad's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sanadsoman45)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  
 </div>
 
 <div align="center">
@@ -75,9 +76,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 💼 Technical Expertise :
 
 - **Backend Development:** Node.js, Express.js, Java Spring Boot, RESTful APIs
-- **Databases:** MySQL, MongoDB, Database Design & Optimization
+- **Databases:** MySQL, MongoDB
 - **Architecture:** Microservices Pattern, Event-Driven Architecture
-- **DevOps:** Docker, Containerization, CI/CD
+- **DevOps:** Docker, Containerization
 - **Message Queuing:** RabbitMQ, Asynchronous Processing
 - **Frontend:** Angular, HTML5, CSS3, JavaScript, Flutter
 - **Cloud:** AWS (Amazon Web Services)
