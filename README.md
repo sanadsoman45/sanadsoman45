@@ -63,8 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <div align="center">
-  [![Sanad's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sanadsoman45)](https://github.com/pranesh-2005/github-readme-stats-fast)
-  
+ [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
 
 <div align="center">
